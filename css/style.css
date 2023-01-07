@@ -77,6 +77,28 @@
 }
 /* section-one end */
 
+/* my section */
+.my-section{
+    width:1140px;
+    height: auto;
+    margin: 40px auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.my-section-sub{
+    width:450px;
+}
+.my-section-sub h1{
+    padding:15px 0px;
+    font-size: 30px;
+}
+.my-section-sub p{
+    padding:10px 0px;
+    line-height: 25px;
+}
+/* my section end */
+
 /* section-two-start */
 .section-two{
     width: 1140px;
@@ -171,4 +193,5 @@
     border-radius: 5px;
 }
 /* footer section end */
+
 
